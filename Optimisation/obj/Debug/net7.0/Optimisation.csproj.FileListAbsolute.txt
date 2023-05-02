@@ -1,0 +1,15 @@
+/Users/rexwb/Academic/Computing/C#/Optimisation/Optimisation/bin/Debug/net7.0/Optimisation
+/Users/rexwb/Academic/Computing/C#/Optimisation/Optimisation/bin/Debug/net7.0/Optimisation.deps.json
+/Users/rexwb/Academic/Computing/C#/Optimisation/Optimisation/bin/Debug/net7.0/Optimisation.runtimeconfig.json
+/Users/rexwb/Academic/Computing/C#/Optimisation/Optimisation/bin/Debug/net7.0/Optimisation.dll
+/Users/rexwb/Academic/Computing/C#/Optimisation/Optimisation/bin/Debug/net7.0/Optimisation.pdb
+/Users/rexwb/Academic/Computing/C#/Optimisation/Optimisation/obj/Debug/net7.0/Optimisation.csproj.AssemblyReference.cache
+/Users/rexwb/Academic/Computing/C#/Optimisation/Optimisation/obj/Debug/net7.0/Optimisation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rexwb/Academic/Computing/C#/Optimisation/Optimisation/obj/Debug/net7.0/Optimisation.AssemblyInfoInputs.cache
+/Users/rexwb/Academic/Computing/C#/Optimisation/Optimisation/obj/Debug/net7.0/Optimisation.AssemblyInfo.cs
+/Users/rexwb/Academic/Computing/C#/Optimisation/Optimisation/obj/Debug/net7.0/Optimisation.csproj.CoreCompileInputs.cache
+/Users/rexwb/Academic/Computing/C#/Optimisation/Optimisation/obj/Debug/net7.0/Optimisation.dll
+/Users/rexwb/Academic/Computing/C#/Optimisation/Optimisation/obj/Debug/net7.0/refint/Optimisation.dll
+/Users/rexwb/Academic/Computing/C#/Optimisation/Optimisation/obj/Debug/net7.0/Optimisation.pdb
+/Users/rexwb/Academic/Computing/C#/Optimisation/Optimisation/obj/Debug/net7.0/Optimisation.genruntimeconfig.cache
+/Users/rexwb/Academic/Computing/C#/Optimisation/Optimisation/obj/Debug/net7.0/ref/Optimisation.dll
